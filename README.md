@@ -2,7 +2,7 @@
 
 The data layer of a Yelp-style restaurant review app built with **Ruby on Rails**. Restaurants have many reviews, and every record is validated before it reaches the database.
 
-Built during the [Le Wagon](https://www.lewagon.com) Web Development bootcamp (London, 2026) to practise Active Record associations and validations.
+Built during the [Le Wagon](https://www.lewagon.com) AI Software Development bootcamp (2026) to practise Active Record associations and validations.
 
 ## Data model
 
